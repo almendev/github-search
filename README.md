@@ -2,7 +2,7 @@
 
 Description:
 
-A React App to find the following data from a user:
+A React App to find the following data from an GitHub user:
 
 - Creation Date of the GitHub account
 - Avatar
